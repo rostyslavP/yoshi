@@ -11,9 +11,9 @@
   "devDependencies": {
     "@types/cosmiconfig": "5.0.3",
     "@types/find-up": "2.1.1",
-    "@types/lodash": "4.14.134",
+    "@types/lodash": "4.14.135",
     "@types/puppeteer": "1.12.4",
-    "@types/webpack": "4.4.33"
+    "@types/webpack": "4.4.34"
   },
   "dependencies": {
     "chalk": "2.4.2",
